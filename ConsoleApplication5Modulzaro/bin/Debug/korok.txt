@@ -1,0 +1,5 @@
+﻿Pál;21
+Péter;22
+Norbert;14
+Eszter;19
+Petra;17

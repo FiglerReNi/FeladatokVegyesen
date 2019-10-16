@@ -1,0 +1,8 @@
+NÉV;KOR;NEME;MUNKÁVAL TÖLTÖTT ÉV
+Péter;21;F
+Pál;18;F
+Petra;22;L;2
+Éva;33;L;5
+Róbert;26;F;8
+Géza;35;F
+Xéni;22;L

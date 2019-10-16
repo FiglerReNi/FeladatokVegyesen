@@ -1,0 +1,4 @@
+﻿Peti;f;21
+Pál;f;18
+Erzsi;n;19
+Zsuzsi;n;25

@@ -1,0 +1,3 @@
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\WindowsFormsApplication2Modulzaro\bin\Debug\WindowsFormsApplication2Modulzáró.exe.config
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\WindowsFormsApplication2Modulzaro\obj\Debug\WindowsFormsApplication2Modulzáró.exe
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\WindowsFormsApplication2Modulzaro\obj\Debug\WindowsFormsApplication2Modulzáró.pdb

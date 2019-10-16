@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\ConsoleApplication20Modulzaro\bin\Debug\ConsoleApplication20Modulzaro.exe.config
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\ConsoleApplication20Modulzaro\bin\Debug\ConsoleApplication20Modulzaro.exe
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\ConsoleApplication20Modulzaro\bin\Debug\ConsoleApplication20Modulzaro.pdb
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\ConsoleApplication20Modulzaro\obj\Debug\ConsoleApplication20Modulzaro.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\ConsoleApplication20Modulzaro\obj\Debug\ConsoleApplication20Modulzaro.exe
+D:\Programozás\Visual Studio\Feladatok\ConsoleApplication1Modulzaro\ConsoleApplication20Modulzaro\obj\Debug\ConsoleApplication20Modulzaro.pdb

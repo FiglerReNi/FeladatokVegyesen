@@ -1,0 +1,4 @@
+szel mag nev db
+10;20;Ural;8
+5;8;Merci;4
+15;18;Ural-2;8

@@ -1,0 +1,13 @@
+Asztal1
+leves 850
+fõ1 1100
+desszert 890
+
+Asztal2
+fõ1 1100
+fõ2 1320
+kv 420
+kv 420
+
+Asztal3
+kv 420
